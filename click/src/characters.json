@@ -1,0 +1,63 @@
+[{
+        "id": 1,
+        "name": "Doughnuts",
+        "image": "./images/doughnuts.jpg"
+
+    },
+    {
+        "id": 2,
+        "name": "Bart",
+        "image": "./images/bart.png"
+    },
+    {
+        "id": 3,
+        "name": "Duff Beer",
+        "image": "./images/duff-beer.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Duff Bottle",
+        "image": "./images/duff-bottle.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Homer",
+        "image": "./images/homer-simpsons.png",
+        "occupation": ""
+    },
+    {
+        "id": 6,
+        "name": "Homer",
+        "image": "./images/homer.jpg"
+    },
+    {
+        "id": 7,
+        "name": "House",
+        "image": "./images/house.png"
+    },
+    {
+        "id": 8,
+        "name": "Lisa",
+        "image": "./images/lisa.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Mr. Burns",
+        "image": "./images/burns.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Millhouse",
+        "image": "./images/millhouse.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Statue",
+        "image": "./images/statue.jpg"
+    },
+    {
+        "id": 12,
+        "name": "",
+        "image": ""
+    }
+]
