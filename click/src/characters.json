@@ -22,8 +22,8 @@
     {
         "id": 5,
         "name": "Homer",
-        "image": "./images/homer-simpsons.png",
-        "occupation": ""
+        "image": "./images/homer-simpsons.png"
+        
     },
     {
         "id": 6,
@@ -57,7 +57,7 @@
     },
     {
         "id": 12,
-        "name": "",
-        "image": ""
+        "name": "Sideshow Bob",
+        "image": "./images/sideshowbob.jpg"
     }
 ]

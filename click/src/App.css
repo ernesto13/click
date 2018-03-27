@@ -1,5 +1,13 @@
 .title {
     width: 100%;
     text-align: center;
-    margin-bottom: 50px;
+    margin-bottom: 10px;
+}
+
+.score-title {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 15px;
+    color: dodgerblue;
+    
 }
